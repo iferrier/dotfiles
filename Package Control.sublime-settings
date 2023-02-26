@@ -14,5 +14,6 @@
     "SCSS",
     "SublimeLinter",
     "SublimeLinter-rubocop"
-  ]
+  ],
+  "bootstrapped": true,
 }
